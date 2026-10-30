@@ -1,0 +1,4 @@
+Total INFOBRAS: 191180
+CUIs unicos INFOBRAS: 155740
+CUIs unicos MEF: 206288
+Interseccion CUI: 97346

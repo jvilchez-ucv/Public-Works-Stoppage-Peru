@@ -1,0 +1,19 @@
+# Raw files > 100 MB & zip archives
+data/raw/
+*.zip
+*.tar.gz
+*.csv.gz
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# OS & Temporary
+.DS_Store
+Thumbs.db
+~$*

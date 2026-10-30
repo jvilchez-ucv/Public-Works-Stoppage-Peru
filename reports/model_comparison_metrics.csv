@@ -1,0 +1,4 @@
+,AUPRC,AUROC,Brier_Score,Recall@Top5%,Recall@Top10%,Recall@Top20%
+1. Regresión Logística (Tabular),0.1567,0.6695,0.3196,9.67,19.94,36.26
+2. LightGBM (Tabular Base),0.255,0.7733,0.2652,16.53,31.62,54.37
+3. LightGBM + Graph Network (Propuesto),0.2587,0.7753,0.258,17.25,32.27,54.65
